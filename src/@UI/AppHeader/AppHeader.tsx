@@ -25,7 +25,7 @@ const AppHeader: FC = () => {
           }
       }
     >
-      <Flex align="center">
+      <Flex align="center" ml={10}>
         {
           wrapper ?
             <div style={{display: 'block'}}>
