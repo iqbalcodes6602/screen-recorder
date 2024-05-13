@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/screen-recorder/static/css/main.dedd7706.chunk.css",
-    "main.js": "/screen-recorder/static/js/main.dbe57bbb.chunk.js",
-    "main.js.map": "/screen-recorder/static/js/main.dbe57bbb.chunk.js.map",
+    "main.js": "/screen-recorder/static/js/main.ac64de87.chunk.js",
+    "main.js.map": "/screen-recorder/static/js/main.ac64de87.chunk.js.map",
     "runtime-main.js": "/screen-recorder/static/js/runtime-main.98676f44.js",
     "runtime-main.js.map": "/screen-recorder/static/js/runtime-main.98676f44.js.map",
     "static/css/2.d6cc4a3f.chunk.css": "/screen-recorder/static/css/2.d6cc4a3f.chunk.css",
-    "static/js/2.cff068e8.chunk.js": "/screen-recorder/static/js/2.cff068e8.chunk.js",
-    "static/js/2.cff068e8.chunk.js.map": "/screen-recorder/static/js/2.cff068e8.chunk.js.map",
+    "static/js/2.2cfbeb0b.chunk.js": "/screen-recorder/static/js/2.2cfbeb0b.chunk.js",
+    "static/js/2.2cfbeb0b.chunk.js.map": "/screen-recorder/static/js/2.2cfbeb0b.chunk.js.map",
     "static/js/3.a11c2702.chunk.js": "/screen-recorder/static/js/3.a11c2702.chunk.js",
     "static/js/3.a11c2702.chunk.js.map": "/screen-recorder/static/js/3.a11c2702.chunk.js.map",
     "index.html": "/screen-recorder/index.html",
     "static/css/2.d6cc4a3f.chunk.css.map": "/screen-recorder/static/css/2.d6cc4a3f.chunk.css.map",
     "static/css/main.dedd7706.chunk.css.map": "/screen-recorder/static/css/main.dedd7706.chunk.css.map",
-    "static/js/2.cff068e8.chunk.js.LICENSE.txt": "/screen-recorder/static/js/2.cff068e8.chunk.js.LICENSE.txt"
+    "static/js/2.2cfbeb0b.chunk.js.LICENSE.txt": "/screen-recorder/static/js/2.2cfbeb0b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.98676f44.js",
     "static/css/2.d6cc4a3f.chunk.css",
-    "static/js/2.cff068e8.chunk.js",
+    "static/js/2.2cfbeb0b.chunk.js",
     "static/css/main.dedd7706.chunk.css",
-    "static/js/main.dbe57bbb.chunk.js"
+    "static/js/main.ac64de87.chunk.js"
   ]
 }
