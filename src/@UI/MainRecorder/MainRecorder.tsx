@@ -111,10 +111,11 @@ const MainRecorder: FC = () => {
           onClick={changeType}
         >
           {type === "screen" ? "Recording Screen  " : "Recording Video"}
-          {type === "screen" ? <CgScreen style={{marginLeft: "5px", fontSize: "140%"}} /> : <FaUser style={{marginLeft: "5px"}} />}
-          
+          {type === "screen" ? <CgScreen style={{ marginLeft: "5px", fontSize: "140%" }} /> : <FaUser style={{ marginLeft: "5px" }} />}
+
         </Button>
         <IconButton
+          display={stream ? "none" : "block"}
           m="1"
           bg={theme.colors.gray[600]}
           size="lg"
@@ -124,8 +125,10 @@ const MainRecorder: FC = () => {
           icon={<Icon as={FaPlay} />}
         />
         <IconButton
+          display={stream ? "block" : "none"}
           m="1"
-          bg={theme.colors.gray[600]}
+          bg={theme.colors.red[600]}
+          _hover={{ bg: theme.colors.red[700] }} // Darker shade on hover
           size="lg"
           color="white"
           aria-label="stop recording"
